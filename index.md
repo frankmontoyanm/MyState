@@ -8,7 +8,7 @@
 - [Register For Account](Register-For-Account.html)
 - [View All Messages](View-All-Messages.html) 
 - [View Content Thread](View-Content-Thread.html)
-
+- [Logout](Logout.html)
 
 You can use the [editor on GitHub](https://github.com/frankmontoyanm/MyState/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
