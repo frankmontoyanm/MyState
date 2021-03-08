@@ -1,13 +1,15 @@
 ## Welcome to GitHub Pages
 
 <ul>
-    <li>[Access Following and Followers](Access-Following-And-Followers.html)</li>
-    <li>[Create Own Content Thread](Create-Own-Content-Thread.html)</li>
-    <li>[Create Profile](Create-Profile.html)</li>
-    <li>[Customize Newsfeed](Customize-Newsfeed.html)</li>
+
+[Access Following and Followers](Access-Following-And-Followers.html)
+[Create Own Content Thread](Create-Own-Content-Thread.html)
+[Create Profile](Create-Profile.html)
+[Customize Newsfeed](Customize-Newsfeed.html)
 [Register For Account](Register-For-Account.html)
 [View All Messages](View-All-Messages.html) 
 [View Content Thread](View-Content-Thread.html)
+
 </ul>
 
 You can use the [editor on GitHub](https://github.com/frankmontoyanm/MyState/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
