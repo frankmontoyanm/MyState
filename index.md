@@ -1,5 +1,13 @@
 ## Welcome to GitHub Pages
 
+[Access Following and Followers](Access-Following-And-Followers.html)
+[Create Own Content Thread](Create-Own-Content-Thread.html)
+[Create Profile](Create-Profile.html)
+[Customize Newsfeed](Customize-Newsfeed.html)
+[Register For Account](Register-For-Account.html)
+[View All Messages](View-All-Messages.html)
+[View Content Thread](View-Content-Thread.html)
+
 You can use the [editor on GitHub](https://github.com/frankmontoyanm/MyState/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -15,7 +23,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bullet
+- Bulleted
 - List
 
 1. Numbered
