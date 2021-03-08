@@ -5,9 +5,9 @@
     <li>[Create Own Content Thread](Create-Own-Content-Thread.html)</li>
     <li>[Create Profile](Create-Profile.html)</li>
     <li>[Customize Newsfeed](Customize-Newsfeed.html)</li>
-    <li>[Register For Account](Register-For-Account.html)</li>
-    <li> [View All Messages](View-All-Messages.html) </li>
-    <li>[View Content Thread](View-Content-Thread.html)</li>
+[Register For Account](Register-For-Account.html)
+[View All Messages](View-All-Messages.html) 
+[View Content Thread](View-Content-Thread.html)
 </ul>
 
 You can use the [editor on GitHub](https://github.com/frankmontoyanm/MyState/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
