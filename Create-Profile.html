@@ -3,12 +3,37 @@
         <title> Create Profile  </title>
         </head>
         <body>
-            <h1> Create Profile </h1>
-            <h3> Edit Profile </h3>
-            <h3> Delete Their Account </h3>
-            <h3> Manage Privacy Settings <h3>
-            <h3> Choose Their Homestate </h3>
-            <h3> Upload Profile Picture </h3>
+            
+            <h2> Edit Profile</h2>
+            <h3> Do you wish to manage your privacy settings? </h3>
+                <input type ="button" value="Yes, take me there" onclick= "location.href='Customize-Newsfeed.html'"><br>
+                <input type ="button" value="No, I wish to edit my profile" onclick= "location.href='Customize-Newsfeed.html'"><br>
+            <h2> Change Profile Picture </h2>
+            <br>
+                <input type="file">
+            <br>
+            <h2>What name do you want to show on your profile?</h2>
+            <br>    
+            <h3>Your Name</h3>
+                <input type ="text" placeholder="Name"> 
+            <br>
+                <input type ="button" value="Save" onclick= "location.href='Customize-Newsfeed.html'"><br>
+            <br>
+            
+            <h2> Do you want to change your homestate? *Warning: Your news feed will change to the selected state*</h2>
+            <br>
+                <input type ="text" placeholder="Choose State"> <br>
+                <input type ="button" value="Select" onclick= "location.href='Customize-Newsfeed.html'">
+            <br>
+            <h3>Delete your account</h3>
+                <div>Explain why you want to delete your account</div>
+                <textarea rows=5 cols=50></textarea><br><br>
+                <input type ="button" value="Submit & Delete" onclick= "location.href='Customize-Newsfeed.html'"><br>
+            
+            <input type ="button" value="Save Changes" onclick= "location.href='Customize-Newsfeed.html'"><br>
+            
+            
+
 
         <a href="index.html">HOME</a>
 
